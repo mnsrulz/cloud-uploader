@@ -1,5 +1,5 @@
 {
-  "name": "cloud-uploader",
+  "name": "clouduploader",
   "version": "0.0.1-alpha",
   "description": "Cloud uploader",
   "main": "index.js",
