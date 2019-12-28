@@ -1,6 +1,6 @@
 {
   "name": "simpleclouduploader",
-  "version": "0.0.2-alpha",
+  "version": "0.0.3-alpha",
   "description": "Simple Cloud uploader",
   "main": "index.js",
   "scripts": {
