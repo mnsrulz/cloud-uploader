@@ -1,0 +1,31 @@
+{
+  "name": "cloud-uploader",
+  "version": "0.0.0-alpha",
+  "description": "Cloud uploader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manishrawat4u/cloud-uploader.git"
+  },
+  "keywords": [
+    "google",
+    "drive",
+    "cloud",
+    "uploader"
+  ],
+  "author": "manishrawat4u",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manishrawat4u/cloud-uploader/issues"
+  },
+  "homepage": "https://github.com/manishrawat4u/cloud-uploader#readme",
+  "dependencies": {
+    "google-auth-library": "^5.7.0",
+    "googleapis": "^46.0.0",
+    "got": "^10.2.0"
+  },
+  "devDependencies": {}
+}
