@@ -4,7 +4,7 @@ Upload content directly to cloud services. Currently supports upload to Google d
 **Installation**
 
 ```
-npm install clouduploader
+npm install simpleclouduploader
 ```
 
 **Usage:**
