@@ -1,4 +1,4 @@
-# gddirecturl
+# simpleclouduploader
 Upload content directly to cloud services. Currently supports upload to Google drive, youtube.
 
 **Installation**
